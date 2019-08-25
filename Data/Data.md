@@ -1,1 +1,1 @@
-This folder contains the data (required covariates for IV models) files for English and Superuser. The data file for Math exceeds the GitHub limit.
+This folder should contain the data files (required covariates for IV models). The data files exceed the GitHub limit.
